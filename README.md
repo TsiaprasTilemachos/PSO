@@ -1,4 +1,4 @@
 # PSO
 Particle Swarm Optimazation
 
-![](PSO.gif)
+![](ParticleSwarmArrowsAnimation.gif)
