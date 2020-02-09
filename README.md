@@ -4,4 +4,4 @@ In computational science, particle swarm optimization (PSO) is a computational m
 
 PSO is originally attributed to Kennedy, Eberhart and Shi and was first intended for simulating social behaviour, as a stylized representation of the movement of organisms in a bird flock or fish school. The algorithm was simplified and it was observed to be performing optimization. The book by Kennedy and Eberhart describes many philosophical aspects of PSO and swarm intelligence. An extensive survey of PSO applications is made by Poli. Recently, a comprehensive review on theoretical and experimental works on PSO has been published by Bonyadi and Michalewicz.(source: https://en.wikipedia.org/wiki/Particle_swarm_optimization)
 
-![](ParticleSwarmArrowsAnimation.gif)
+![](img/ParticleSwarmArrowsAnimation.gif)
